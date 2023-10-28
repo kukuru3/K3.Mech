@@ -1,0 +1,22 @@
+{
+    "name": "com.k3.mech",
+    "version": "0.1.0",
+    "displayName": "K3 Mech",
+    "description": "A small, simple vehicle physics framework",
+    "unity": "2022.2",
+    "dependencies": {
+      "com.k3.core": "1.2.0"
+    },
+    "keywords": [
+      "mech",
+      "vehicle",
+      "boobs"
+    ],
+    "author": {
+      "name": "KUKURU3",
+      "email": "krunjeni@kukuru3.dev",
+      "url": "https://kukuru3.dev"
+    }
+  }
+  
+  

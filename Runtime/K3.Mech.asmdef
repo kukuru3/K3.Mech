@@ -1,0 +1,17 @@
+{
+    "name": "K3.Mech",
+    "rootNamespace": "K3.Mech",
+    "references": [
+        "K3.Core",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
