@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using K3.Mech;
-using K3.Physics.Walker;
 using UnityEngine;
 
 namespace K3.Physics.Walker
 {   
+    [Obsolete("This component is here for reference and will be abandoned", error: false)]
     public class TerrainAdaptiveWalker : MechComponent, IPhysicsWalker, IDynamicDrag {
         [SerializeField] Transform mechViewTransform;
         [SerializeField] [Range(0f,2f)]float viewSmoothingPos;
